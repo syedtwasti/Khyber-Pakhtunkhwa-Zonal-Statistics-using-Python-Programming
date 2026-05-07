@@ -1,0 +1,10 @@
+geopandas
+rasterio
+rasterstats
+matplotlib
+seaborn
+fiona
+pyproj
+shapely
+numpy
+pandas
